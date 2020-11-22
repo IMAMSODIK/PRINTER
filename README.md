@@ -7,9 +7,7 @@
 <ul>
   <li><a href="https://www.oracle.com/java/technologies/javase-jdk15-downloads.html">jdk-15</a>. Proses instalasi untuk <a href="https://www.duniailkom.com/tutorial-belajar-java-mengatur-setting-path-untuk-java-jdk/">windows</a></li>
 </ul>
-
-
-<br><br><h4>Mengeksekusi program dengan file printer.jar</h4>
+<h4>Mengeksekusi program dengan file printer.jar</h4>
 <ol>
   <li>download file printer.jar <a href="https://drive.google.com/file/d/1VjEurwJRY3NZKAxpJ7hYiKEP5yKaxcnQ/view?usp=sharing">disini</a></li>
   <li>buka cmd dengan cara tekan tombol <b><i>win + r</i></b> secara bersamaan, lalu ketikkan cmd dan tekan enter</li>
@@ -17,11 +15,13 @@
   <li>ketik perintah <b><i>java -jar printer.jar</i></b></li>
   <li>program sudah dapat digunakan</li>
 </ol>
-<br>
 <h4>Mengeksekuis program dengan compiler java</h4>
 <ol>
    <li>clone repo github PRINTER atau copy source code dari <a href="https://github.com/IMAMSODIK/PRINTER/blob/master/Printer.java">file ini</a>.<br>
      <b>catatan : </b> setelah source code dicopy, paste source code tersebut ke kode editor(notepad), lalu simpan file tersebut dengan nama <b>Printer.java</b></li>
   <li>buka cmd dengan cara tekan tombol <b><i>win + r</i></b> secara bersamaan, lalu ketikkan cmd dan tekan enter</li>
   <li>masuk ke lokasi dari Printer.java</li>
-  <li>compile program tersebut dengan mengetikkan 
+  <li>compile program tersebut dengan mengetikkan <b><i>javac Printer.java</i></b></li>
+  <li>jalankan program tersebut dengan mengetikkan <b><i>java Printer</i></p></li>
+ </ol>
+<h3>hanya dapat mem-print file berekstensi .txt</h3>
