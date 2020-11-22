@@ -12,8 +12,8 @@
 <br><br><h4>Mengeksekusi program dengan file printer.jar</h4>
 <ul>
   <li>download file printer.jar <a href="https://drive.google.com/file/d/1VjEurwJRY3NZKAxpJ7hYiKEP5yKaxcnQ/view?usp=sharing">disini</a></li>
-  <li>buka cmd/terminal dengan cara tekan tombol <i>win + r</i> secara bersamaan, lalu ketikkan cmd dan tekan enter</li>
-  <li>masuk kefolder lokasi dari .jar file</li>
-  <li>ketik perintah <i>java -jar printer.jar</i></li>
+  <li>buka cmd dengan cara tekan tombol <mark><i>win + r</i></mark> secara bersamaan, lalu ketikkan cmd dan tekan enter</li>
+  <li>masuk kefolder lokasi dari printer.jar file</li>
+  <li>ketik perintah <mark><i>java -jar printer.jar</i></mark></li>
   <li>program sudah dapat digunakan</li>
 </ul>
