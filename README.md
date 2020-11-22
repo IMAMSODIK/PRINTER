@@ -24,4 +24,4 @@
   <li>compile program tersebut dengan mengetikkan <b><i>javac Printer.java</i></b></li>
   <li>jalankan program tersebut dengan mengetikkan <b><i>java Printer</i></p></li>
  </ol>
-<h3>hanya dapat mem-print file berekstensi .txt</h3>
+<h3>program hanya bisa mem-print file berekstensi .txt</h3>
