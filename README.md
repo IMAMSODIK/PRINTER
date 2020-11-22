@@ -3,7 +3,17 @@
 ![GitHub Logo](https://saintek.uinsu.ac.id/assets/images/icons/header_1.png)
 <h2 align="center">Tugas Mata Kuliah Sistem Operasi "Mengoperasikan atau Dioperasikan"</h2>
 
-<br><br><h4>Mengeksekusi file .jar</h4>
+<h4>prerequisite</h4>
 <ul>
-  <li>download file .jar di<a href="https://drive.google.com/file/d/1VjEurwJRY3NZKAxpJ7hYiKEP5yKaxcnQ/view?usp=sharing">sini</a></li>
+  <li><a href="https://www.oracle.com/java/technologies/javase-jdk15-downloads.html">jdk-15</a></li>
  </ul>
+
+
+<br><br><h4>Mengeksekusi program dengan file printer.jar</h4>
+<ul>
+  <li>download file printer.jar <a href="https://drive.google.com/file/d/1VjEurwJRY3NZKAxpJ7hYiKEP5yKaxcnQ/view?usp=sharing">disini</a></li>
+  <li>buka cmd/terminal dengan cara tekan tombol <i>win + r</i> secara bersamaan, lalu ketikkan cmd dan tekan enter</li>
+  <li>masuk kefolder lokasi dari .jar file</li>
+  <li>ketik perintah <i>java -jar printer.jar</i></li>
+  <li>program sudah dapat digunakan</li>
+</ul>
