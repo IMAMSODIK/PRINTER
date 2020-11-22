@@ -1,9 +1,9 @@
+import javax.print.attribute.*;
 import javax.swing.*;
 import java.awt.event.*;
+import java.awt.print.*;
 import java.awt.*;
 import java.io.*;
-import java.awt.print.*;
-import javax.print.attribute.*;
 
 public class Printer extends JFrame implements ActionListener, Printable{
 
