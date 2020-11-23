@@ -1,5 +1,5 @@
 <h2 align="center">Tugas Mata Kuliah Sistem Operasi "Mengoperasikan atau Dioperasikan"</h2>
-<img src="https://phpbego.files.wordpress.com/2015/10/logo-uinsu2.png" align="center">
+<img width=200 height=200 src="https://phpbego.files.wordpress.com/2015/10/logo-uinsu2.png" align="center">
 
 <h4>prerequisite</h4>
 <ul>
